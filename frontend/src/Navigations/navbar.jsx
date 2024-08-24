@@ -44,7 +44,7 @@ export const Navbar = () => {
       <div>
         <NavItem href="/">Dashboard</NavItem>
         <NavItem href="/add">Add Song</NavItem>
-        <NavItem href="/view">View Song</NavItem>
+        <NavItem href="/view">View Songs</NavItem>
       </div>
     </NavbarContainer>
   );
